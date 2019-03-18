@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    color: #222;
+}
+
+.itens-nav {
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    margin-top:10px;
+    padding-left: 1150px;
+    word-spacing:7px ;
+
+ }
+
+img {
+    max-height: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-top: 160px;*/
+    margin-bottom: 34px;
+ }
+
+
+ a {
+    text-decoration: none;
+    color: #222 ;
+  }
+
+a:hover{
+    text-decoration: underline;
+ }
+
+.tbx{
+    margin: 0 auto;
+    margin-left: 370px;
+    padding-top: 38px;
+
+}
+
+.search {
+    display:;
+    text-align: ;
+    position: ;
+    margin: auto;
+    width: 56%;
+    max-width: 100%;
+    border: 1px solid #ccc;
+    font-size: 18px;
+    background-color: transparent;
+    border-radius: 20px;
+    padding: 12px 40px 12px 25px;
+
+}
+
+#search input:hover{
+    box-shadow: -0px 2px 3px 2px #bfb9b9;
+}
+
+#search .fa-keyboard{
+    position: absolute;
+    top: 185px;
+    left: 930px;
+    font-size: 16px;
+    background-image: url('//www.gstatic.com/inputtools/images/tia.png');
+
+}
+
+/*buttons*/
+
+.button input{
+    font-size: 13px;
+    cursor: pointer;
+    display: inline-block;
+    border: none;
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 10px 14px 10px 10px;
+  }
+
+.button input:hover{
+   color: black;
+   border: 1px solid #ccc;
+ }
+
+.button1 {
+    margin-top: 30px;
+    margin-left: 160px;
+    border-radius: 4px;
+}
+
+.button2 {
+    margin-right: : 100px;
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 4px;
+}
+
+#lsbt{
+    margin-top: 32px;
+    text-align: center;
+    margin-right: 370px;
+}
+
+#lsbt a{
+   color: #1a0dab;
+}
+
+footer {
+    color: #757575;
+    margin-top: 69px;
+}
+
+footer a{
+    color: #757575;
+    margin-top: 85px;
+
+}
+
+#ll p{
+    color: #757575;
+    position: relative;
+    font-size: 15px;
+    background-color: #f2f2f2;
+    padding: 8px 14px 10px 27px;
+    border: 1px solid rgba(0,0,0,.10);
+    text-align: left;
+}
+
+.Allfoo{
+    position: relative;
+    background-color: #f2f2f2;
+    padding: 12px 20px 29px 25px;
+}
+
+.LefBB{
+    position: absolute;
+    padding: 12px ;
+    bottom: 7px;
+    top: -2px;
+    left: 16px;
+    color: #757575;
+    word-spacing: 25px;
+    right: 2px;
+    font-size: 13px;
+}
+.rigBB{
+    position: absolute;
+    padding: 12px ;
+    bottom: 7px;
+    top: -2px;
+    right: 16px;
+    word-spacing: 25px;
+    font-size: 13px;
+    color: #757575;
+
+}
